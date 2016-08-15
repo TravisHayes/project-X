@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Axiom_10">
+    <title>Axiom 10 - Angle Measurement Axiom</title>
+    <introduction>
+    </introduction>
+
+<statement>
+Every angle can be assigned a unique positive number less than 180 called it's Degree Measure. Conversely, given distinct points <m>P</m> and <m>Q</m> on line <m>l</m> and a positive number <m>x</m> less than 180, on each side of <m>l</m> there is a point <m>R</m> such that <m>\angle{QPR}</m> has measure <m>x</m>. Furthermore, <m>\overrightarrow{PR}</m> is the unique ray with this property.
+</statement>
+
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Axiom_3">
+    <title>Axiom 3 - Ruler</title>
+    <introduction>
+    </introduction>
+
+<statement>
+
+Given a system of measurement, every segment can be assigned a unique positive number called it's length. Given <m>\overline{PQ}</m>, it's length will be denoted by <m>PQ</m>. Conversely, given a point <m>P</m> on a line <m>l</m>, for every positive number <m>x</m> there are two unique points <m>Q</m> and <m>R</m> on line <m>l</m> such that <m>Q</m>-<m>P</m>-<m>R</m> and <m>QP = PR=x</m>.
+
+</statement> 
+
+</section>

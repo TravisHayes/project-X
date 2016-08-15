@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US" xml:id="Basic-Transformations">
+    <title>Basic Transformations</title>
+    <introduction>
+        <p>testing 1 2 3</p>
+    </introduction>
+
+<xi:include href="./sections/basic/Transformations.xml" />
+
+<xi:include href="./sections/basic/Reflections.xml" />
+
+<xi:include href="./sections/basic/Translations.xml" />
+
+<xi:include href="./sections/basic/Rotations.xml" />
+    
+</chapter>

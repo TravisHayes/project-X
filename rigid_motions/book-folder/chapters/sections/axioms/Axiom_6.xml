@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Axiom_6">
+    <title>Axiom 6 - Plane Axiom</title>
+    <introduction>
+    </introduction>
+
+<statement>
+
+<ol>
+
+<li> Every plane contains at least three distinct non-collinear points.</li>
+<li> Every line lies in at least one plane.</li>
+<li> Given three distinct non-collinear points, there is exactly one plane containing those three points.</li>
+<li> If two distinct points lie in a plane, then the line through those two points lies entirely in that plane.</li>
+</ol>
+
+</statement>
+</section>

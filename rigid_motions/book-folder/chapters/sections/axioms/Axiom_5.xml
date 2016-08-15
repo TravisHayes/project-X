@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Axiom_5">
+    <title>Axiom 5 - Betweenness II </title>
+    <introduction>
+    </introduction>
+
+<statement>
+
+If <m>P</m> and <m>Q</m> are distinct points then there exist 3 additional points, <m>A</m>, <m>B</m>, and <m>C</m> on <m>\overleftrightarrow{PQ}</m> such that <m>A</m>-<m>P</m>-<m>Q</m>, <m>P</m>-<m>B</m>-<m>Q</m> and <m>P</m>-<m>Q</m>-<m>C</m>.
+
+</statement>
+
+<figure xml:id="Axiom_5-example">
+
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/Axiom_5.png" width="60%"/>
+<caption>Example</caption>
+
+</figure>
+
+</section>
+

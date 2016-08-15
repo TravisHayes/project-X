@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Axiom_11">
+    <title>Axiom 11 - Angle Addition Axiom</title>
+    <introduction>
+    </introduction>
+
+<p>If <m>D</m> is an interior point of <m>\angle{ABC}</m>, then <m>m\angle{ABD} + m\angle{DBC} = m\angle{ABC}</m>.
+</p> 
+</section>

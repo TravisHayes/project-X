@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subsection xml:id="reflections">
+    <title>Reflections in Geogebra</title>
+    <introduction>
+    </introduction>
+    
+<ol>
+
+<li>
+<p>
+Using the polygon tool, from the drop-down menu, select the Polygon tool and create a arbitrary triangle with labeled vertices. 
+</p>
+</li>
+
+<li>
+<p>
+Create an arbitrary line in the sketch.
+</p>
+</li>
+
+<li>
+<p>
+Using the transformation tool, select the "Reflect About Line" option and reflect the triangle through the line.
+</p>
+</li>
+</ol>
+
+<example>
+<figure xml:id="reflections_1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflections_1.png" width="90%"/>
+<caption><m>\triangle ABC</m> reflected through a line</caption>
+</figure>
+</example>
+</subsection>

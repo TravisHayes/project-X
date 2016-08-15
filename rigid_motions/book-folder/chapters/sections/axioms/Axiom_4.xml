@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Axiom_4">
+    <title>Axiom 4 - Segment Addition</title>
+    <introduction>
+    </introduction>
+
+<statement>
+
+If <m>P</m>-<m>Q</m>-<m>R</m>, then <m>PQ + QR = PR</m>
+
+</statement>
+
+<figure xml:id="Axiom_4-example">
+
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/Axiom_4.png" width="60%"/>
+<caption>Example</caption>
+
+</figure>
+</section>

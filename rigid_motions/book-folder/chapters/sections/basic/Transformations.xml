@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US" xml:id="idk">
+    <title>Transformations in Geogebra</title>
+<p>The following sections will teach you how to do the three basic transformations of geometric objects in Geogebra. </p>
+
+<xi:include href="./subsections/reflections.xml" />
+
+<xi:include href="./subsections/rotations.xml" />
+
+<xi:include href="./subsections/translations.xml" />
+
+</section>

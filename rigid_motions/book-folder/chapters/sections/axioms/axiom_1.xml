@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US" xml:id="axiom_1">
+    <title>Axiom 1 - Incidence</title>
+<statement>Given two distinct points, there is exactly one line incident with them, and any given line is incident with at least two distinct points.</statement> 
+
+
+<figure xml:id="Axiom_1-example">
+
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/axiom_1_example.png" width="60%"/>
+<caption>Example</caption>
+
+
+</figure>
+
+<figure xml:id="Axiom_1-non-example">
+
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/axiom_1_non-example.png" width="60%"/>
+<caption>Non-Example</caption>
+
+
+</figure>
+           
+           
+</section>

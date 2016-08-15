@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US" xml:id="Axioms">
+    <title>Axioms</title>
+    <introduction>
+        <p>[Note: Although only axioms and theorems are listed here, we follow the convention of calling theorems involving measurement "formulas," theorems about qualities possessed by geometric objects and concepts "properties," and theorems describing the requirements for a geometric object to have certain properties "conditions."]</p>
+    </introduction>    
+ 
+<xi:include href="./sections/axioms/axiom_1.xml" />
+
+<xi:include href="./sections/axioms/axiom_2.xml" />
+
+<xi:include href="./sections/axioms/axiom_3.xml" />
+
+<xi:include href="./sections/axioms/axiom_4.xml" />
+
+<xi:include href="./sections/axioms/axiom_5.xml" />
+
+<xi:include href="./sections/axioms/axiom_6.xml" />
+
+<xi:include href="./sections/axioms/axiom_7.xml" />
+
+<xi:include href="./sections/axioms/axiom_8.xml" />
+
+<xi:include href="./sections/axioms/axiom_9.xml" />
+
+<xi:include href="./sections/axioms/axiom_10.xml" />
+
+<xi:include href="./sections/axioms/axiom_11.xml" />
+
+</chapter>

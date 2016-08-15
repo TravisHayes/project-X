@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subsection xml:id="translations">
+    <title>Translations in Geogebra</title>
+    <introduction>
+    </introduction>
+    
+<ol>
+
+<li>
+<p>
+Using the polygon tool, from the drop-down menu, select the Polygon tool and create a arbitrary triangle with labeled vertices. 
+</p>
+</li>
+
+<li>
+<p>
+Create an two arbitrary (and distinct) points in the sketch. Label them <m>P</m> and <m>Q</m>. Construct vector <m>\overrightarrow{PQ}</m> by using the vector tool.
+</p>
+</li>
+
+<li>
+<p>
+Using the transformation tool, select the "Translate by Vector" option and translate the triangle by vector <m>\overrightarrow{PQ}</m>.
+</p>
+</li>
+</ol>
+
+<example>
+<figure xml:id="translations_1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_3.png" width="90%"/>
+<caption><m>\triangle ABC</m> translated by vector <m>\overrightarrow{PQ}</m></caption>
+</figure>
+</example>
+</subsection>

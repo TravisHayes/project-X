@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subsection xml:id="rotations">
+    <title>Rotations in Geogebra</title>
+    <introduction>
+    </introduction>
+    
+<ol>
+
+<li>
+<p>
+Using the polygon tool, from the drop-down menu, select the Polygon tool and create a arbitrary triangle with labeled vertices. 
+</p>
+</li>
+
+<li>
+<p>
+Create an arbitrary point in the sketch.
+</p>
+</li>
+
+<li>
+<p>
+Using the transformation tool, select the "Reflect About Point" option and rotate the triangle about the point.
+</p>
+</li>
+</ol>
+
+<example>
+<figure xml:id="rotations_1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotations_3.png" width="90%"/>
+<caption><m>\triangle ABC</m> rotated about a point</caption>
+</figure>
+</example>
+</subsection>

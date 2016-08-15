@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Axiom_2">
+    <title>Axiom 2 - Betweenness I</title>
+    <introduction>
+    </introduction>
+
+<statement>
+
+If distinct point <m>P</m>, <m>Q</m> and <m>R</m> are collinear then exactly one of the following statements are true:
+<ol>
+
+
+<li>
+<m>P</m> is between points <m>R</m> and <m>Q</m>, denoted by <m>R</m>-<m>P</m>-<m>Q</m> or <m>Q</m>-<m>P</m>-<m>R</m>;
+</li>
+
+<li>
+<m>Q</m> is between points <m>P</m> and <m>R</m>, denoted by <m>P</m>-<m>Q</m>-<m>R</m> or <m>R</m>-<m>Q</m>-<m>P</m>; or
+</li>
+
+<li>
+<m>R</m> is between points <m>P</m> and <m>Q</m>, denoted by <m>P</m>-<m>R</m>-<m>Q</m> or <m>Q</m>-<m>R</m>-<m>P</m>.
+</li>
+
+</ol>
+
+</statement>
+
+<figure xml:id="Axiom_2-example">
+
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/axiom_2_example.png" width="60%"/>
+<caption>Example</caption>
+
+
+</figure>
+
+<figure xml:id="Axiom_2-non-example">
+
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/axiom_2_non-example.png" width="60%"/>
+<caption>Non-Example</caption>
+
+
+</figure>
+
+</section>
